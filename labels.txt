@@ -1,0 +1,5 @@
+# Label mapping
+id2label = {
+    "0": "3D Printed",
+    "1": "Not 3D Printed"
+}
